@@ -18,3 +18,7 @@ This repository contains the code for a fully responsive web application that fe
 
 
 **Deployed Link** - [Vite + React (global-groupware.netlify.app)](https://global-groupware.netlify.app/list)
+
+
+https://github.com/user-attachments/assets/c2e03625-d18a-4bb7-b041-fb931fe4d0dc
+
