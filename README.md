@@ -3,7 +3,7 @@
 This repository contains the code for a fully responsive web application that fetches data from an external API, includes dynamic search functionality, and manages user data through token-based authentication. Only authenticated users are allowed to edit or delete user details, ensuring proper security and access control.
 
 ## Steps to run the Application
-- git clone `https://github.com/your-username/your-project-name.git`
+- git clone `https://github.com/Abhisek246/User-Details.git`
 -   cd `your-project-name`
 - npm install
 - npm run dev
