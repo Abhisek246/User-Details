@@ -1,8 +1,20 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+This repository contains the code for a fully responsive web application that fetches data from an external API, includes dynamic search functionality, and manages user data through token-based authentication. Only authenticated users are allowed to edit or delete user details, ensuring proper security and access control.
 
-Currently, two official plugins are available:
+## Steps to run the Application
+- git clone `https://github.com/your-username/your-project-name.git`
+-   cd `your-project-name`
+- npm install
+- npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+-   **Responsive design**: Optimized for all devices (mobile, tablet, and desktop).
+-   **API integration**: Retrieves data from an external API.
+-   **Dynamic search**: Users can search data in real-time.
+-   **Authentication**: Token-based authentication using `localStorage` for session management.
+-   **Role-based access control**: Only authenticated users can perform certain actions (delete/edit).
+
+
+**Deployed Link** - [Vite + React (global-groupware.netlify.app)](https://global-groupware.netlify.app/list)
