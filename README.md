@@ -17,7 +17,7 @@ This repository contains the code for a fully responsive web application that fe
 -   **Role-based access control**: Only authenticated users can perform certain actions (delete/edit).
 
 
-**Deployed Link** - [Vite + React (global-groupware.netlify.app)](https://global-groupware.netlify.app/list)
+**Deployed Link** - https://global-groupware.netlify.app/
 
 
 https://github.com/user-attachments/assets/c2e03625-d18a-4bb7-b041-fb931fe4d0dc
